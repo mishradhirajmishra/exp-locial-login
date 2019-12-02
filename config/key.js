@@ -1,4 +1,4 @@
 module.exports = {
-    mpngoURL : 'mongodb://dhiraj:dhiraj123@ds343718.mlab.com:43718/neweventsdb',  
+    mpngoURL : 'mongodb://localhost:27017/local-login',  
     session_key :'dsbhadgbsajdswahdzxjhdcusagdwqyuedjsazxauszdghwqyudhwqa'
 }
